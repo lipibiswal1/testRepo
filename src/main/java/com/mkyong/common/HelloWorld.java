@@ -1,7 +1,7 @@
 package com.mkyong.common;
 
 /**
- * Hello world!
+ * Hello world Lipi!
  *
  */
 public class HelloWorld 
